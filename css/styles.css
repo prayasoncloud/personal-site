@@ -21,6 +21,16 @@ p{
     line-height: 2;
 }
 
+a{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a:hover{
+    color: #F3CCFF;
+}
+
 hr{
     border: dotted #FEA1BF 6px;
     border-bottom: none;
@@ -30,7 +40,7 @@ hr{
 }
 
 .upper{
-    background-color: #9D3C72;
+    background-color: #b340d6;
     position: relative;
     padding-top: 100px;
 }
@@ -40,7 +50,8 @@ hr{
 }
 
 .lower{
-    background-color: #9D3C72;
+    background-color: #b340d6;
+    padding: 50px 0 20px;
 }
 
 .intro{
