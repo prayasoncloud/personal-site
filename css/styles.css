@@ -30,6 +30,11 @@ h3{
 .lower{
     background-color: #9D3C72;
 }
+
+.skill-row1{
+    margin: 100px auto 100px auto;
+}
+
 .cloud1{
     position: absolute;
     right: 300px;
