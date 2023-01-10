@@ -35,6 +35,11 @@ h3{
     margin: 100px auto 100px auto;
 }
 
+.intro{
+    width: 30%;
+    
+}
+
 .cloud1{
     position: absolute;
     right: 300px;
