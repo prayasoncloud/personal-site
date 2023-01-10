@@ -60,3 +60,30 @@ hr{
     left: 300px;
     top: 200px;
 }
+
+.btn {
+  background: #A31ACB;
+  background-image: -webkit-linear-gradient(top, #A31ACB, #58287F);
+  background-image: -moz-linear-gradient(top, #A31ACB, #58287F);
+  background-image: -ms-linear-gradient(top, #A31ACB, #58287F);
+  background-image: -o-linear-gradient(top, #A31ACB, #58287F);
+  background-image: linear-gradient(to bottom, #A31ACB, #58287F);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #58287F;
+  background-image: -webkit-linear-gradient(top, #58287F, #A31ACB);
+  background-image: -moz-linear-gradient(top, #58287F, #A31ACB);
+  background-image: -ms-linear-gradient(top, #58287F, #A31ACB);
+  background-image: -o-linear-gradient(top, #58287F, #A31ACB);
+  background-image: linear-gradient(to bottom, #58287F, #A31ACB);
+  text-decoration: none;
+}
