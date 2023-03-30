@@ -2,6 +2,8 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    background-color: black;
+    color: aliceblue;
 }
 
 h1{
@@ -98,3 +100,23 @@ hr{
   background-image: linear-gradient(to bottom, #58287F, #A31ACB);
   text-decoration: none;
 }
+
+.social-icons .social-icon {
+    
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color:black;
+    color:  #b340d6;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+  }
+  .social-icons .social-icon:last-child {
+    margin-right: 0;
+  }
+  .social-icons .social-icon:hover {
+    background-color: white;
+  }
